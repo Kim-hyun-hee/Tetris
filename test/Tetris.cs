@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace Tetris
 {
-    class Program
+    class Tetris
     {
         const int D_X = 8; // 0,0 출력x위치
         const int D_Y = 4; // 0,0 출력y위치
